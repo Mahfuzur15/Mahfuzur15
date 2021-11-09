@@ -1,5 +1,4 @@
-
-### Hi 👋, My name is Mahfuzur Rahman
+### Hi there 👋, my name is Mahfuzur Rahman
 #### I am a Software Quality Assurance Engineer
 ![I am a Software Quality Assurance Engineer](https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/118296039_2900090060214209_2671322265894065532_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_ohc=Ne52FdO4Am4AX-9ukZc&_nc_ht=scontent.fdac14-1.fna&oh=c528d304cbf794a8f6a4959469ba93f9&oe=61B076EF)
 
@@ -15,12 +14,13 @@ Skills: JAVA PYTHON DJANGO  JS  HTML  CSS GIT SELENIUM
 - 😄 Pronouns: He/Him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/Mahfuzur15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/mahfuz-tushar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](mahfuzur15.github.io)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahfuzur15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/mahfuz-tushar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](mahfuzur15.github.io)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/Mahfuzur15)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=github.com/Mahfuzur15&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=github.com/Mahfuzur15)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahfuzur15&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/github.com/Mahfuzur15)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahfuzur15)  
+
+![Profile views](https://gpvc.arturio.dev/Mahfuzur15)  
