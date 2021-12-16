@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Manual testing & API testing**
 
-- 🌱 I’m currently learning **Web Automation**
+- 🌱 I’m currently learning **Mobile Automation Testing**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
